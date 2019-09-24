@@ -48,5 +48,5 @@ onComplete:function(data){
 * Plays nicely with http://reactiveraven.github.io/jqBootstrapValidation/ when form has `novalidate="novalidate"` attribute.
 * Plays nicely with https://github.com/CodeSeven/toastr to display notices as well.
 * You can invoke `$.blockUI()` from http://jquery.malsup.com/block/ in the onStart function to display a loader which you can clear `$.unblockUI()` during `onComplete`.
-* `webtoolkit.aim.js` only submits the data when the form is valid.
+* `webtoolkit.aim.js` only submits the form when it is valid.
 
