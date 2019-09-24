@@ -1,5 +1,5 @@
 # webtoolkit.aim
-Post form data using AJAX
+Post form data using AJAX. Modified code from http://www.webtoolkit.info/ajax_file_upload.html
 
 # Usage
 Include the webtoolkit.aim.js file in your html page
